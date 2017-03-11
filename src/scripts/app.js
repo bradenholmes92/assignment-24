@@ -4,7 +4,8 @@ import ReactDOM from 'react-dom';
 
 //Bubba helped me get it functioning properly in terms of deleting
 //the items from the list. Owe him big for sticking it out with me,
-// gotta give credit where it's due.
+// gotta give credit where it's due. Also got the basic layout of all
+//the JSX from your demo.
 
 
 const ToDoListPage = React.createClass({
